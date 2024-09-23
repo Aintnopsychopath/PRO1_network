@@ -39,6 +39,7 @@ This project aims to study the effects of increasing penetration of Electric Veh
 
 ### Step 2: Time Series Simulation with Load Profiles
 
+
 **Objective:** Incorporate time-varying load profiles and perform load flow analysis over a 24-hour period.
 
 **Tasks:**
@@ -47,6 +48,9 @@ This project aims to study the effects of increasing penetration of Electric Veh
 
 **Expected Outcome:**
 - Analyze the impact of daily load variations on network performance.
+
+
+[Step 1 and Step 2 Tutorials](https://play.kth.se/media/MJ2505+Optimization+of+energy+networks-+Steps+1+and+2/0_j76vbjng)
 
 ### Step 3: Integration of Electric Vehicle Charging Stations
 
@@ -100,3 +104,5 @@ By completing this project, you will gain insights into:
 
 - [CIGRE Medium Voltage Distribution Network Model](https://www.cigre.org)
 - [Pandapower Documentation](https://pandapower.readthedocs.io)
+- [Sample Timeseries Example](https://github.com/e2nIEE/pandapower/blob/develop/tutorials/time_series.ipynb) 
+- 
