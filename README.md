@@ -1,5 +1,7 @@
 # Impact of Electric Vehicle (EV) Penetration on the Power Grid
 
+> **Reproducibility status:** This is an educational study repository containing course notebooks, spreadsheets, and a report. It is not yet packaged as one-command software. Results should be treated as documented coursework until the notebooks, input licences, execution order, and clean-run outputs are consolidated. See `REPRODUCIBILITY.md` and `PROVENANCE.md`.
+
 ## Project Overview
 
 This project aims to study the effects of increasing penetration of Electric Vehicles (EVs) on the power distribution network. The focus is on strategies to mitigate adverse impacts while ensuring power quality and stability. The project consists of multiple steps, each involving specific tasks to analyze the network's behavior and implement EV charging infrastructure.
@@ -84,7 +86,7 @@ This project aims to study the effects of increasing penetration of Electric Veh
 **Expected Outcome:**
 - Evaluate the potential for reducing network losses.
 
-## Grading Matrix
+## Course scope
 
 - **E Grade (Step 1):** Understanding of the Pandapower network and power flow analysis.
 - **D Grade (Step 2):** Load profile modeling and time-series analysis.
@@ -92,9 +94,9 @@ This project aims to study the effects of increasing penetration of Electric Veh
 - **B Grade (Step 4):** Addition of PV systems and optimization of load profiles.
 - **A Grade (Step 5):** Operational optimization to minimize network losses.
 
-## Expected Outcomes
+## Intended learning outcomes
 
-By completing this project, you will gain insights into:
+The study is intended to develop insight into:
 - The current state of the power network.
 - Effects of EV integration on voltage stability and line loading.
 - Optimization strategies for load management and renewable energy integration.
